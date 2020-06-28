@@ -17,3 +17,5 @@ Gaston's disregard for authority or even public safety are not confined to his o
 
 
 > M'enfin!
+
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Gastonpied.gif"/>
