@@ -7,3 +7,10 @@ Gaston's age is a mystery – Franquin himself confessed that he neither knew no
 Gaston alternates between phases of extreme laziness, when it is near impossible to wake him up, and hyper-activity, when he creates various machines or plays with office furniture. Over the years, he has experimented with cooking, rocket science, music, electronics, decorating, telecommunication, chemistry and many other hobbies, all with uniformly catastrophic results. His Peter Pan-like refusal to grow up and care about his work makes him very endearing, while his antics account for half the stress experienced by his unfortunate co-workers.
 
 Gaston's disregard for authority or even public safety are not confined to his office — they occasionally threaten the entire city. He is not above covering road signs with advertising posters or even snowmen, reasoning that it is the only decent use that they have — being oblivious to the chaos and accidents that covering the road signs cause. 
+
+## Character traits
+
+* lazy
+* genius
+* brilliant
+* engineer
